@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/controller/DoctorController.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/controller/PatientController.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/model/Patient.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/main/Main.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/view/DoctorView.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/view/LaborationView.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/dao/LaborationDAO.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/view/PatientView.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/model/Reception.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/dao/PatientDAO.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/view/ReceptionView.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/dao/DoctorDAO.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/dao/ReceptionDAO.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/model/Doctor.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/view/LoginView.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/db/DBConnection.java</file>
+            <file>file:/E:/Projects/MedicalApp/src/lk/medicare/medicalapp/view/TestView.java</file>
+        </group>
+    </open-files>
+</project-private>
